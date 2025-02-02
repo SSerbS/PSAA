@@ -1,0 +1,14 @@
+C:\Users\playe\Documents\GitHub\PSAA\obj\Debug\net9.0\PSAA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\playe\Documents\GitHub\PSAA\obj\Debug\net9.0\PSAA.AssemblyInfoInputs.cache
+C:\Users\playe\Documents\GitHub\PSAA\obj\Debug\net9.0\PSAA.AssemblyInfo.cs
+C:\Users\playe\Documents\GitHub\PSAA\obj\Debug\net9.0\PSAA.csproj.CoreCompileInputs.cache
+C:\Users\playe\Documents\GitHub\PSAA\bin\Debug\net9.0\PSAA.exe
+C:\Users\playe\Documents\GitHub\PSAA\bin\Debug\net9.0\PSAA.deps.json
+C:\Users\playe\Documents\GitHub\PSAA\bin\Debug\net9.0\PSAA.runtimeconfig.json
+C:\Users\playe\Documents\GitHub\PSAA\bin\Debug\net9.0\PSAA.dll
+C:\Users\playe\Documents\GitHub\PSAA\bin\Debug\net9.0\PSAA.pdb
+C:\Users\playe\Documents\GitHub\PSAA\obj\Debug\net9.0\PSAA.dll
+C:\Users\playe\Documents\GitHub\PSAA\obj\Debug\net9.0\refint\PSAA.dll
+C:\Users\playe\Documents\GitHub\PSAA\obj\Debug\net9.0\PSAA.pdb
+C:\Users\playe\Documents\GitHub\PSAA\obj\Debug\net9.0\PSAA.genruntimeconfig.cache
+C:\Users\playe\Documents\GitHub\PSAA\obj\Debug\net9.0\ref\PSAA.dll

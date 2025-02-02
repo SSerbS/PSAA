@@ -1,0 +1,5 @@
+C:\Users\playe\Documents\GitHub\PSAA\bin\Release\net9.0\publish\PSAA.exe
+C:\Users\playe\Documents\GitHub\PSAA\bin\Release\net9.0\publish\PSAA.dll
+C:\Users\playe\Documents\GitHub\PSAA\bin\Release\net9.0\publish\PSAA.deps.json
+C:\Users\playe\Documents\GitHub\PSAA\bin\Release\net9.0\publish\PSAA.runtimeconfig.json
+C:\Users\playe\Documents\GitHub\PSAA\bin\Release\net9.0\publish\PSAA.pdb
